@@ -1,0 +1,2 @@
+www.ssnuniv.edu:192.1.2.5
+www.annauniv.edu:190.1.2.4

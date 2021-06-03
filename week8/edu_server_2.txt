@@ -1,0 +1,3 @@
+www.ssnuniv.edu:123.4.8.9$
+www.annauniv.edu:120.1.2.3$
+www.mit.edu:121.4.5.6$

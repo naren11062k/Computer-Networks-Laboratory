@@ -1,0 +1,2 @@
+www.google.com:112.4.5.6$
+www.cricbuzz.com:116.2.3.4$
